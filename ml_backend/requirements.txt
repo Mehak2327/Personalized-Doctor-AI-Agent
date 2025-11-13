@@ -1,6 +1,5 @@
 streamlit
 pandas
-fitz  # PyMuPDF ke liye
 pymupdf
 langchain
 langchain-community
@@ -9,4 +8,5 @@ openai
 faiss-cpu
 tiktoken
 python-dotenv
-
+gunicorn
+flask
